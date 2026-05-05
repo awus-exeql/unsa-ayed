@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c18a37e-044f-49f5-b165-f0d2ba262895" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/tp1/Numero.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3BLv6rAKLRMUai1w8psJuqU71DE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AplicacionPila.executor": "Run",
+    "Application.ColaArr.executor": "Run",
+    "Application.Entero.executor": "Run",
+    "Application.EsPrimo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matriz.executor": "Run",
+    "Application.Numero.executor": "Run",
+    "Application.TestLab1.executor": "Run",
+    "Application.TestNumeroBinario.executor": "Run",
+    "Application.TestRankingFifa.executor": "Run",
+    "Application.TestSubsidios.executor": "Run",
+    "Application.tp3.Numero.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/Awus/Documentos/notes/unsa/ayed",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestSubsidios">
+    <configuration name="AplicacionPila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp5.AplicacionPila" />
+      <module name="AyED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp6.ejercicio5.TestLab1" />
+      <module name="AyED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNumeroBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp6.ejercicio3.TestNumeroBinario" />
+      <module name="AyED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRankingFifa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp6.ejercicio4.TestRankingFifa" />
+      <module name="AyED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSubsidios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp6.ejercicio8.TestSubsidios" />
+      <module name="AyED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSubsidios" />
+        <item itemvalue="Application.TestLab1" />
+        <item itemvalue="Application.TestRankingFifa" />
+        <item itemvalue="Application.TestNumeroBinario" />
+        <item itemvalue="Application.AplicacionPila" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c18a37e-044f-49f5-b165-f0d2ba262895" name="Changes" comment="" />
+      <created>1774281006624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774281006624</updated>
+    </task>
+    <servers />
+  </component>
+</project>

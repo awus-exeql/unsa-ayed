@@ -1,0 +1,4 @@
+Ejercicio Nº 1:
+Implementar el TAD Lista Ordenada, pero con lista enlazada simple,
+a partir del código propuesto por la Cátedra (lista con implementado con lista enlazada doble).
+Reutilice código, use interfaz y sea genérico en la propuesta cumpliendo con la funcionalidad del contenedor.
