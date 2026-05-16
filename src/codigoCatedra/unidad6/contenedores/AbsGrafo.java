@@ -1,5 +1,6 @@
-package contenedores;
-import recursos.OperacionesG;
+package codigoCatedra.unidad6.contenedores;
+import codigoCatedra.unidad6.recursos.OperacionesG;
+
 public abstract class AbsGrafo implements OperacionesG{
 	protected MatrizGrafo matrizCosto;
 	protected int ordenGrafo;

@@ -1,4 +1,4 @@
-package patronesRecursivos;
+package codigoCatedra.unidad2;
 
 import javax.swing.JFrame;
 

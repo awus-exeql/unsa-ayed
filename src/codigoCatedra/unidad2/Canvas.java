@@ -1,7 +1,6 @@
-package patronesRecursivos;
+package codigoCatedra.unidad2;
 
 import java.awt.Graphics;
-
 import javax.swing.JPanel;
 
 public class Canvas extends JPanel {
@@ -45,10 +44,10 @@ public class Canvas extends JPanel {
 
 	/**
 	 * dibujarTriangulo()---dibuja recursivamente los
-	 * Triángulos de Sierpinski
+	 * Triï¿½ngulos de Sierpinski
 	 * siendo los puntos (p1X, p1Y), (p2X, p2Y), (p3X, p3Y)
-	 * los vértices de los triángulos internos.
-	 * nivel (>= 0) es el parámetro de recursión (base case: nivel 0)
+	 * los vï¿½rtices de los triï¿½ngulos internos.
+	 * nivel (>= 0) es el parï¿½metro de recursiï¿½n (base case: nivel 0)
 	 */
 	private void dibujarTriangulo(Graphics g, int nivel, int p1X, int p1Y,
 			int p2X, int p2Y, int p3X, int p3Y) {
@@ -69,11 +68,11 @@ public class Canvas extends JPanel {
 	}
 
 	/**
-	 * dibujarCuadro()---dibuja recursivamente un patrón
+	 * dibujarCuadro()---dibuja recursivamente un patrï¿½n
 	 * de cuadros anidados
 	 * con la esquina superior izq en (locX, locY) 
 	 * y con la longitud dada por lado
-	 * nivel (>= 0) es el parámetro de recursión (caso base: nivel 0)
+	 * nivel (>= 0) es el parï¿½metro de recursiï¿½n (caso base: nivel 0)
 	 * delta se utiliza para ajustar la longitud del lado.
 	 */
 	private void dibujarCuadro(Graphics g, int nivel,

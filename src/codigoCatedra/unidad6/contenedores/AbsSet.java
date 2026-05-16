@@ -1,6 +1,7 @@
-package contenedores;
-import recursos.Nodo;
-import recursos.OperacionesConj;
+package codigoCatedra.unidad6.contenedores;
+import codigoCatedra.unidad6.recursos.Nodo;
+import codigoCatedra.unidad6.recursos.OperacionesConj;
+
 public abstract class AbsSet implements OperacionesConj{
 	protected Nodo conjunto;
 	protected int cardinal;

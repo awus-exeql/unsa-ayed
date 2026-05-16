@@ -1,4 +1,4 @@
-package taller01;
+package codigoCatedra.unidad1;
 
 public class ParOrdenado {
 	//atributos o datos

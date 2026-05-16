@@ -1,4 +1,4 @@
-package contenedores;
+package codigoCatedra.unidad6.contenedores;
 
 public class MatrizArr {
 	protected Object[][] matriz;

@@ -1,5 +1,5 @@
-package contenedores;
-import recursos.*;
+package codigoCatedra.unidad4.contenedores;
+import codigoCatedra.unidad4.recursos.*;
 
 
 public class ColaSLinkedList implements OperacionesCL1 {

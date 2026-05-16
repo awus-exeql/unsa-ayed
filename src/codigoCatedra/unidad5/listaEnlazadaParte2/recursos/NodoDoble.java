@@ -1,4 +1,4 @@
-package recursos;
+package codigoCatedra.unidad5.listaEnlazadaParte2.recursos;
 
 public class NodoDoble {
 	private Object nodoInfo;

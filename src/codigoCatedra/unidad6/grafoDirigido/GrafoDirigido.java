@@ -1,4 +1,4 @@
-package grafoDirigido;
+package codigoCatedra.unidad6.grafoDirigido;
 
 import java.util.Scanner;
 

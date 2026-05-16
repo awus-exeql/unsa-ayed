@@ -1,5 +1,5 @@
-package contenedores;
-import recursos.*;
+package codigoCatedra.unidad5.listaEnlazadaParte2.contenedores;
+import codigoCatedra.unidad5.listaEnlazadaParte2.recursos.*;
 
 public abstract class Lista0DLinkedL implements OperacionesCL2 {
 	protected NodoDoble frenteL, finalL;

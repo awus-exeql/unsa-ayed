@@ -1,4 +1,4 @@
-package testing;
+package codigoCatedra.unidad4.ejemploCola;
 
 public class TestMiCPU {
 

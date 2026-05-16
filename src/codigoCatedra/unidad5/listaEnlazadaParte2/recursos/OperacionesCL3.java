@@ -1,4 +1,4 @@
-package recursos;
+package codigoCatedra.unidad5.listaEnlazadaParte2.recursos;
 
 // es para terminar de especificar las operaciones de una lista comun
 

@@ -1,6 +1,6 @@
-package contenedores;
+package codigoCatedra.unidad6.contenedores;
 
-public class MatrizGrafo extends MatrizArr{
+public class MatrizGrafo extends MatrizArr {
 	public MatrizGrafo(int ordenGrafo){
 		super(ordenGrafo, ordenGrafo);
 	}

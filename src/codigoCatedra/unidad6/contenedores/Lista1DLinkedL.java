@@ -1,5 +1,5 @@
-package contenedores;
-import recursos.*;
+package codigoCatedra.unidad6.contenedores;
+import codigoCatedra.unidad6.recursos.*;
 
 // implementando una lista simple
 public abstract class Lista1DLinkedL extends Lista0DLinkedL implements OperacionesCL3{

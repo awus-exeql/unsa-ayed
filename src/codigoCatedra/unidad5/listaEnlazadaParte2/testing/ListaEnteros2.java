@@ -1,6 +1,6 @@
-package testing;
-import contenedores.*;
-import recursos.*;
+package codigoCatedra.unidad5.listaEnlazadaParte2.testing;
+import codigoCatedra.unidad5.listaEnlazadaParte2.contenedores.*;
+import codigoCatedra.unidad5.listaEnlazadaParte2.recursos.*;
 
 // lista ordenada de enteros
 public class ListaEnteros2 extends Lista2DLinkedL{

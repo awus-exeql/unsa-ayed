@@ -1,6 +1,6 @@
-package recursos;
+package codigoCatedra.unidad6.recursos;
 
-import contenedores.AbsSet;
+import codigoCatedra.unidad6.contenedores.AbsSet;
 
 public interface OperacionesConj {
 	

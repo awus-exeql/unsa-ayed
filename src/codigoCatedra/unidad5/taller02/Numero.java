@@ -1,6 +1,6 @@
-package taller02;
+package codigoCatedra.unidad5.taller02;
 
-import taller01.ParOrdenado;
+import codigoCatedra.unidad5.taller01.ParOrdenado;
 
 public class Numero {
 	//atributo o dato:

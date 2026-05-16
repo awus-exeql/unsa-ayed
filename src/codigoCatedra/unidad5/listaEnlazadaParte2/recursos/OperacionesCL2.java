@@ -1,4 +1,4 @@
-package recursos;
+package codigoCatedra.unidad5.listaEnlazadaParte2.recursos;
 
 public interface OperacionesCL2 {
 	public int buscar(Object elemento);

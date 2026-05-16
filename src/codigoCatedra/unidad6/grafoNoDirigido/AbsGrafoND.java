@@ -1,6 +1,6 @@
-package grafoNoDirigido;
-import contenedores.*;
-import recursos.*;
+package codigoCatedra.unidad6.grafoNoDirigido;
+import codigoCatedra.unidad6.contenedores.*;
+import codigoCatedra.unidad6.recursos.*;
 
 public abstract class AbsGrafoND extends AbsGrafo implements OperacionesGND{
 	

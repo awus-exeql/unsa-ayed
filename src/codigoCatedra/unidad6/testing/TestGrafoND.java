@@ -1,6 +1,6 @@
-package testing;
+package codigoCatedra.unidad6.testing;
 import java.util.Scanner;
-import grafoNoDirigido.GrafoNoDirigido;
+import codigoCatedra.unidad6.grafoNoDirigido.GrafoNoDirigido;
 
 public class TestGrafoND {
 	public static void main(String[] args) {		

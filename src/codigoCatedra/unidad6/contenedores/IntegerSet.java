@@ -1,5 +1,5 @@
-package contenedores;
-import recursos.Nodo;
+package codigoCatedra.unidad6.contenedores;
+import codigoCatedra.unidad6.recursos.Nodo;
 public class IntegerSet extends AbsSet{
 	
 	public boolean iguales(Object objA, Object objB){

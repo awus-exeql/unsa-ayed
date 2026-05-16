@@ -1,4 +1,4 @@
-package testing;
+package codigoCatedra.unidad5.listaEnlazadaParte2.testing;
 
 public class Test {
 	public static void main(String[] args) {

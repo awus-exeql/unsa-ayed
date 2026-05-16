@@ -1,5 +1,5 @@
-package taller03;
-import taller01.Punto;
+package codigoCatedra.unidad5.taller03;
+import codigoCatedra.unidad5.taller01.Punto;
 
 
 public class Rectangulo extends Figura {

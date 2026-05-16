@@ -1,4 +1,4 @@
-package recursos;
+package codigoCatedra.unidad6.recursos;
 
 public class Connection {
 	protected int vertexI, vertexJ;

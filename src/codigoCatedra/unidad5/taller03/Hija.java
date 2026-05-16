@@ -1,4 +1,4 @@
-package taller03;
+package codigoCatedra.unidad5.taller03;
 
 public class Hija extends Madre {
 	private double w;

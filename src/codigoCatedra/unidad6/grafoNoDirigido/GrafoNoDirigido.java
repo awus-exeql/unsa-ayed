@@ -1,4 +1,4 @@
-package grafoNoDirigido;
+package codigoCatedra.unidad6.grafoNoDirigido;
 
 import java.util.Scanner;
 

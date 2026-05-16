@@ -1,5 +1,6 @@
-package taller01;
-import taller03.IMovible;
+package codigoCatedra.unidad5.taller01;
+import codigoCatedra.unidad5.taller03.IMovible;
+
 public class Punto extends ParOrdenado implements IMovible {
 	
 	public Punto(int x, int y){

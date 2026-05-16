@@ -1,6 +1,7 @@
-package testing;
+package codigoCatedra.unidad4.ejemploCola;
 
-import contenedores.ColaArr;
+import codigoCatedra.unidad4.contenedores.ColaArr;
+import codigoCatedra.unidad4.ejemploCola.Proceso;
 
 public class CPU {
 	private ColaArr cola;

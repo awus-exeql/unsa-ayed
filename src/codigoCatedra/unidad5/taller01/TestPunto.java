@@ -1,4 +1,4 @@
-package taller01;
+package codigoCatedra.unidad5.taller01;
 
 public class TestPunto {
 

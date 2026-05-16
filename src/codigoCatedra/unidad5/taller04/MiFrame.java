@@ -1,4 +1,4 @@
-package taller04;
+package codigoCatedra.unidad5.taller04;
 
 import java.awt.BorderLayout;
 import java.awt.Container;

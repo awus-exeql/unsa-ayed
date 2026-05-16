@@ -1,6 +1,6 @@
-package taller03;
+package codigoCatedra.unidad5.taller03;
 
-import taller01.Punto;
+import codigoCatedra.unidad5.taller01.Punto;
 
 public class Circulo extends Figura {
 	protected double radio;

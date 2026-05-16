@@ -1,4 +1,6 @@
-package taller01;
+package codigoCatedra.unidad5.taller01;
+
+import codigoCatedra.unidad1.ParOrdenado;
 
 public class Test {
 

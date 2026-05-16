@@ -1,5 +1,5 @@
-package contenedores;
-import recursos.*;
+package codigoCatedra.unidad5.listaEnlazadaParte2.contenedores;
+import codigoCatedra.unidad5.listaEnlazadaParte2.recursos.*;
 
 // lista ordenada
 public abstract class Lista2DLinkedL extends Lista0DLinkedL implements OperacionesCL4 {
@@ -48,7 +48,7 @@ public abstract class Lista2DLinkedL extends Lista0DLinkedL implements Operacion
 	public abstract boolean esMenor(Object elemento1, Object elemento2);
 	public abstract boolean esMayor(Object elemento1, Object elemento2);
 	
-	// implementar algún metodo de búsqueda
+	// implementar algï¿½n metodo de bï¿½squeda
 	public int buscar(Object elemento){
 		// implementar!!!
 		return -1;

@@ -1,11 +1,11 @@
-package patronesRecursivos;
+package codigoCatedra.unidad2;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
 public class PatronesRecursivos extends JFrame implements ItemListener {
-	private String opciones[] = { "Triángulo de Sierpinski", "Cuadros anidados" };
+	private String opciones[] = { "Triangulo de Sierpinski", "Cuadros anidados" };
 	private JComboBox patrones = new JComboBox(opciones);
 	private JComboBox niveles = new JComboBox();
 	private Canvas canvas = new Canvas();

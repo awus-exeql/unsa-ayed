@@ -1,4 +1,4 @@
-package taller03;
+package codigoCatedra.unidad5.taller03;
 
 public interface IMovible {
 	public void moverArriba();
