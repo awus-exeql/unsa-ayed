@@ -7,15 +7,10 @@ public class NumeroBinario extends Lista1DLinkedList{
         super();
     }
     public NumeroBinario(String Nro){
-//        boolean bit;
-//        for(int i = Nro.length()-1; i>=0;i--){
-//            bit = charToBoolean( Nro.charAt(i) );
-//            insertarXCabeza(bit);
-//        }
-        int numero = Integer.parseInt(Nro);
-        while (numero > 0) {
-            insertarXCabeza(numero % 10);
-            numero /= 10;
+        boolean bit;
+        for(int i = Nro.length()-1; i>=0;i--){
+            bit = charToBoolean( Nro.charAt(i) );
+            insertarXCabeza(bit);
         }
     }
 
