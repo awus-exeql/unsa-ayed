@@ -48,6 +48,14 @@ public class MatrizArr {
         return objElemento;
     }
 
+    public void limpiaMatriz(){
+        for (int i=0;i<getNroFilas();i++){
+            for (int j=0;j<getNroColumnas();j++){
+                this.matriz[i][j]=null;
+            }
+        }
+    }
+
     public String toString(){
         String aux = "";
         for(int i = 0; i<getNroFilas(); i++){
